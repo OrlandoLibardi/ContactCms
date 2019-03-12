@@ -1,6 +1,6 @@
 <?php
 
-namespace OrlandoLibardi\ContactCms\app\Obervers;
+namespace OrlandoLibardi\ContactCms\app\Observers;
 
 use OrlandoLibardi\ContactCms\app\Contact;
 
