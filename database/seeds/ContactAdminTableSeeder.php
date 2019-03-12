@@ -4,7 +4,7 @@ use Illuminate\Database\Seeder;
 use OrlandoLibardi\PageCms\app\Page;
 use OrlandoLibardi\OlCms\AdminCms\app\Admin;
 
-class NewsletterAdminTableSeeder extends Seeder
+class ContactAdminTableSeeder extends Seeder
 {
     /**
      * Run the database seeds.
