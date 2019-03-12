@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace OrlandoLibardi\ContactCms\app;
 
 use Illuminate\Database\Eloquent\Model;
 
