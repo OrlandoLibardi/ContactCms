@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\Route;
 
 use OrlandoLibardi\ContactCms\app\Contact;
 use OrlandoLibardi\ContactCms\app\Observers\ContactObserver;
-
+    
 class OlCmsContactServiceProvider extends ServiceProvider
 {
     /**
